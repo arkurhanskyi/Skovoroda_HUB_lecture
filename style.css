@@ -1,0 +1,15 @@
+.col{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    font-size: 2.5em;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.col-1{
+    background-color: rgb(234, 234, 234);
+}
+.col-2{
+    background-color: rgb(170, 170, 170);
+}
